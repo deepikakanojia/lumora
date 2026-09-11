@@ -1,0 +1,16 @@
+{
+  "product_name": "Employee Onboarding Operations",
+  "client_name": "Demo Company",
+  "real_domain": "",
+  "demo_domain": "example.com",
+  "demo_domain_alt": "example.net",
+  "demo_work_domain": "democo.example",
+  "cohort_slug_prefix": "onboarding",
+  "theme": {
+    "primary": "#2563EB",
+    "accent": "#00B4D8",
+    "deep": "#0F172A",
+    "background": "#F8FAFC",
+    "soft": "#E0F2FE"
+  }
+}

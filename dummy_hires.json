@@ -1,0 +1,1600 @@
+{
+ "tab": "Cohort Tracker May - December 26",
+ "headerRow": 7,
+ "firstDataRow": 8,
+ "rows": [
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Alex",
+   "Carter",
+   {
+    "__date__": "2026-05-11"
+   },
+   {
+    "__date__": "2026-05-11"
+   },
+   "alex.carter@example.com",
+   "alex.carter@democo.example",
+   "Principal Client Partner",
+   "Morgan Smith",
+   "morgan.smith@democo.example",
+   "Alexis Tran",
+   "Dept: Client Partnership | Recruiter: Elena Voss",
+   "https://groups.google.com/a/democo.example/g/05-11-2026-onboarding-cohort",
+   true,
+   "Austin, Texas, United States",
+   "",
+   false,
+   false,
+   "Alexis Tran",
+   "Client Partnership",
+   "\u2713 2026-05-10",
+   {
+    "__date__": "2026-05-06"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Jordan",
+   "Lee",
+   {
+    "__date__": "2026-05-11"
+   },
+   {
+    "__date__": "2026-05-11"
+   },
+   "jordan.lee@example.com",
+   "jordan.lee@democo.example",
+   "Staff Software Engineer",
+   "Jamie Wilson",
+   "jamie.wilson@democo.example",
+   "Colin Mercer",
+   "Dept: Engineering | Recruiter: Felix Grant",
+   true,
+   true,
+   "Toronto, Ontario, Canada",
+   "",
+   false,
+   false,
+   "Colin Mercer",
+   "Engineering",
+   "\u2713 2026-05-10",
+   {
+    "__date__": "2026-05-06"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Taylor",
+   "Morgan",
+   {
+    "__date__": "2026-05-11"
+   },
+   {
+    "__date__": "2026-05-11"
+   },
+   "taylor.morgan@example.com",
+   "taylor.morgan@democo.example",
+   "Senior Customer Success Manager",
+   "Riley Chen",
+   "riley.chen@democo.example",
+   "Alexis Tran",
+   "Dept: Customer Success | Recruiter: Georgia Pike",
+   true,
+   true,
+   "Denver, Colorado, United States",
+   "",
+   false,
+   false,
+   "Alexis Tran",
+   "Customer Success",
+   "\u2713 2026-05-10",
+   {
+    "__date__": "2026-05-06"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Casey",
+   "Brown",
+   {
+    "__date__": "2026-05-25"
+   },
+   {
+    "__date__": "2026-05-25"
+   },
+   "casey.brown@example.com",
+   "casey.brown@democo.example",
+   "Senior Enterprise Account Executive",
+   "Priya Raman",
+   "priya.raman@democo.example",
+   "Bianca Okoro",
+   "Dept: Sales | Recruiter: Hugo Salas",
+   true,
+   true,
+   "Chicago, Illinois, United States",
+   "",
+   false,
+   false,
+   "Bianca Okoro",
+   "Sales",
+   "\u2713 2026-05-24",
+   {
+    "__date__": "2026-05-20"
+   }
+  ],
+  [
+   "Joined",
+   true,
+   true,
+   true,
+   "Rowan",
+   "Okafor",
+   {
+    "__date__": "2026-05-25"
+   },
+   {
+    "__date__": "2026-05-25"
+   },
+   "rowan.okafor@example.com",
+   "rowan.okafor@democo.example",
+   "Senior Product Designer",
+   "Marcus Delaney",
+   "marcus.delaney@democo.example",
+   "Colin Mercer",
+   "Dept: Design | Recruiter: Imani Reid",
+   true,
+   true,
+   "London, England, United Kingdom",
+   "",
+   false,
+   false,
+   "Colin Mercer",
+   "Design",
+   "\u2713 2026-05-24",
+   {
+    "__date__": "2026-05-20"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Avery",
+   "Nguyen",
+   {
+    "__date__": "2026-06-08"
+   },
+   {
+    "__date__": "2026-06-08"
+   },
+   "avery.nguyen@example.com",
+   "avery.nguyen@democo.example",
+   "Senior Backend Engineer",
+   "Nina Kovac",
+   "nina.kovac@democo.example",
+   "Colin Mercer",
+   "Dept: Engineering | Recruiter: Jonas Brekke",
+   true,
+   true,
+   "Singapore",
+   "",
+   false,
+   false,
+   "Colin Mercer",
+   "Engineering",
+   "\u2713 2026-06-07",
+   {
+    "__date__": "2026-06-03"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Quinn",
+   "Patel",
+   {
+    "__date__": "2026-06-08"
+   },
+   {
+    "__date__": "2026-06-08"
+   },
+   "quinn.patel@example.com",
+   "quinn.patel@democo.example",
+   "Principal Product Manager",
+   "Theo Barnes",
+   "theo.barnes@democo.example",
+   "Colin Mercer",
+   "Dept: Product | Recruiter: Kira Nolan",
+   true,
+   true,
+   "Seattle, Washington, United States",
+   "",
+   false,
+   false,
+   "Colin Mercer",
+   "Product",
+   "\u2713 2026-06-07",
+   {
+    "__date__": "2026-06-03"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Skyler",
+   "Rivera",
+   {
+    "__date__": "2026-06-08"
+   },
+   {
+    "__date__": "2026-06-08"
+   },
+   "skyler.rivera@example.com",
+   "skyler.rivera@democo.example",
+   "Client Delivery Director",
+   "Sofia Marchetti",
+   "sofia.marchetti@democo.example",
+   "Alexis Tran",
+   "Dept: Deployment | Recruiter: Liam Ashby",
+   true,
+   true,
+   "Miami, Florida, United States",
+   "",
+   false,
+   false,
+   "Alexis Tran",
+   "Deployment",
+   "\u2713 2026-06-07",
+   {
+    "__date__": "2026-06-03"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Devon",
+   "Novak",
+   {
+    "__date__": "2026-06-01"
+   },
+   {
+    "__date__": "2026-06-08"
+   },
+   "devon.novak@example.com",
+   "devon.novak@democo.example",
+   "Senior Financial Analyst",
+   "Elias Fontaine",
+   "elias.fontaine@democo.example",
+   "Dara Lindgren",
+   "Dept: Finance | Recruiter: Elena Voss",
+   true,
+   true,
+   "",
+   "",
+   false,
+   false,
+   "Dara Lindgren",
+   "Finance",
+   "\u2713 2026-06-07",
+   {
+    "__date__": "2026-06-03"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Harper",
+   "Bennett",
+   {
+    "__date__": "2026-06-22"
+   },
+   {
+    "__date__": "2026-06-22"
+   },
+   "harper.bennett@example.com",
+   "harper.bennett@democo.example",
+   "Vice President, Client Partner",
+   "Grace Abbott",
+   "grace.abbott@democo.example",
+   "Alexis Tran",
+   "Dept: Client Partnership | Recruiter: Felix Grant",
+   true,
+   true,
+   "New York, New York, United States",
+   "",
+   false,
+   false,
+   "Alexis Tran",
+   "Client Partnership",
+   "\u2713 2026-06-21",
+   {
+    "__date__": "2026-06-17"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Emerson",
+   "Hale",
+   {
+    "__date__": "2026-06-15"
+   },
+   {
+    "__date__": "2026-06-22"
+   },
+   "emerson.hale@example.com",
+   "emerson.hale@democo.example",
+   "Senior Behavioral Scientist",
+   "Omar Haddad",
+   "omar.haddad@democo.example",
+   "Colin Mercer",
+   "Off-cycle start; rolled into the following cohort.",
+   true,
+   true,
+   "Amsterdam, Netherlands",
+   "",
+   false,
+   false,
+   "Colin Mercer",
+   "Behavioral Science",
+   "\u2713 2026-06-21",
+   {
+    "__date__": "2026-06-17"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Finley",
+   "Iyer",
+   {
+    "__date__": "2026-06-22"
+   },
+   {
+    "__date__": "2026-06-22"
+   },
+   "finley.iyer@example.com",
+   "finley.iyer@democo.example",
+   "Senior AI Automation Engineer",
+   "Dana Whitfield",
+   "dana.whitfield@democo.example",
+   "Colin Mercer",
+   "Dept: Engineering | Recruiter: Hugo Salas",
+   true,
+   true,
+   "Bengaluru, India",
+   "",
+   false,
+   false,
+   "Colin Mercer",
+   "Engineering",
+   "\u2713 2026-06-21",
+   {
+    "__date__": "2026-06-17"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Kendall",
+   "Kowalski",
+   {
+    "__date__": "2026-07-06"
+   },
+   {
+    "__date__": "2026-07-06"
+   },
+   "kendall.kowalski@example.com",
+   "kendall.kowalski@democo.example",
+   "Account Director, Strategic",
+   "Morgan Smith",
+   "morgan.smith@democo.example",
+   "Bianca Okoro",
+   "Dept: Sales | Recruiter: Imani Reid",
+   true,
+   true,
+   "Dallas, Texas, United States",
+   "",
+   false,
+   false,
+   "Bianca Okoro",
+   "Sales",
+   "\u2713 2026-07-05",
+   {
+    "__date__": "2026-07-01"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Logan",
+   "Larsen",
+   {
+    "__date__": "2026-07-06"
+   },
+   {
+    "__date__": "2026-07-06"
+   },
+   "logan.larsen@example.com",
+   "logan.larsen@democo.example",
+   "Customer Success Manager",
+   "Jamie Wilson",
+   "jamie.wilson@democo.example",
+   "Alexis Tran",
+   "Dept: Customer Success | Recruiter: Jonas Brekke",
+   true,
+   true,
+   "Sydney, NSW, Australia",
+   "",
+   false,
+   false,
+   "Alexis Tran",
+   "Customer Success",
+   "\u2713 2026-07-05",
+   {
+    "__date__": "2026-07-01"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Marley",
+   "Ferraro",
+   {
+    "__date__": "2026-07-06"
+   },
+   {
+    "__date__": "2026-07-06"
+   },
+   "marley.ferraro@example.com",
+   "marley.ferraro@democo.example",
+   "Engineering Intern",
+   "Riley Chen",
+   "riley.chen@democo.example",
+   "Colin Mercer",
+   "Intern cohort \u2014 attends Day 1 and Day 3 sessions only.",
+   true,
+   true,
+   "San Luis Obispo, California, United States",
+   "",
+   false,
+   false,
+   "Colin Mercer",
+   "Engineering",
+   "\u2713 2026-07-05",
+   {
+    "__date__": "2026-07-01"
+   }
+  ],
+  [
+   "Joined",
+   true,
+   true,
+   true,
+   "Nico",
+   "Osei",
+   {
+    "__date__": "2026-06-29"
+   },
+   {
+    "__date__": "2026-07-06"
+   },
+   "nico.osei@example.com",
+   "nico.osei@democo.example",
+   "Engineering Intern",
+   "Priya Raman",
+   "",
+   "Colin Mercer",
+   "Dept: Engineering | Recruiter: Liam Ashby",
+   true,
+   true,
+   "Manchester, England, United Kingdom",
+   "",
+   false,
+   false,
+   "Colin Mercer",
+   "Engineering",
+   "\u2713 2026-07-05",
+   {
+    "__date__": "2026-07-01"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Peyton",
+   "Pruitt",
+   {
+    "__date__": "2026-07-06"
+   },
+   {
+    "__date__": "2026-07-06"
+   },
+   "peyton.pruitt@example.com",
+   "peyton.pruitt@democo.example",
+   "Senior Commercial Counsel",
+   "Marcus Delaney",
+   "marcus.delaney@democo.example",
+   "Dara Lindgren",
+   "Dept: Legal | Recruiter: Elena Voss",
+   true,
+   true,
+   "Portland, Oregon, United States",
+   "",
+   false,
+   false,
+   "Dara Lindgren",
+   "Legal",
+   "\u2713 2026-07-05",
+   {
+    "__date__": "2026-07-01"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Reese",
+   "Quintero",
+   {
+    "__date__": "2026-07-20"
+   },
+   {
+    "__date__": "2026-07-20"
+   },
+   "reese.quintero@example.com",
+   "reese.quintero@democo.example",
+   "Senior Account Manager",
+   "Nina Kovac",
+   "nina.kovac@democo.example",
+   "Bianca Okoro",
+   "Dept: Account Management | Recruiter: Felix Grant",
+   true,
+   true,
+   "Vancouver, British Columbia, Canada",
+   "",
+   false,
+   false,
+   "Bianca Okoro",
+   "Account Management",
+   "\u2713 2026-07-19",
+   {
+    "__date__": "2026-07-15"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Sawyer",
+   "Rashid",
+   {
+    "__date__": "2026-07-20"
+   },
+   {
+    "__date__": "2026-07-20"
+   },
+   "sawyer.rashid@example.com",
+   "sawyer.rashid@democo.example",
+   "Deployment Manager",
+   "Theo Barnes",
+   "theo.barnes@democo.example",
+   "Alexis Tran",
+   "Dept: Deployment | Recruiter: Georgia Pike",
+   true,
+   true,
+   "Berlin, Germany",
+   "",
+   false,
+   false,
+   "Alexis Tran",
+   "Deployment",
+   "\u2713 2026-07-19",
+   {
+    "__date__": "2026-07-15"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Tatum",
+   "Sorensen",
+   {
+    "__date__": "2026-08-03"
+   },
+   {
+    "__date__": "2026-08-03"
+   },
+   "tatum.sorensen@example.com",
+   "tatum.sorensen@democo.example",
+   "Principal Client Partner",
+   "Sofia Marchetti",
+   "sofia.marchetti@democo.example",
+   "Alexis Tran",
+   "Dept: Client Partnership | Recruiter: Hugo Salas",
+   true,
+   true,
+   "Minneapolis, Minnesota, United States",
+   "",
+   false,
+   false,
+   "Alexis Tran",
+   "Client Partnership",
+   "\u2713 2026-08-02",
+   {
+    "__date__": "2026-07-29"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Wren",
+   "Tanaka",
+   {
+    "__date__": "2026-08-03"
+   },
+   {
+    "__date__": "2026-08-03"
+   },
+   "",
+   "wren.tanaka@democo.example",
+   "Senior Data Analyst",
+   "Elias Fontaine",
+   "elias.fontaine@democo.example",
+   "Colin Mercer",
+   "Dept: Data | Recruiter: Imani Reid",
+   true,
+   true,
+   "Singapore",
+   "",
+   false,
+   false,
+   "Colin Mercer",
+   "Data",
+   "\u2713 2026-08-02",
+   {
+    "__date__": "2026-07-29"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Blake",
+   "Underwood",
+   {
+    "__date__": "2026-07-27"
+   },
+   {
+    "__date__": "2026-08-03"
+   },
+   "blake.underwood@example.com",
+   "blake.underwood@democo.example",
+   "People Operations Partner",
+   "Grace Abbott",
+   "grace.abbott@democo.example",
+   "Dara Lindgren",
+   "Dept: People | Recruiter: Jonas Brekke",
+   true,
+   true,
+   "Atlanta, Georgia, United States",
+   "",
+   false,
+   false,
+   "Dara Lindgren",
+   "People",
+   "\u2713 2026-08-02",
+   {
+    "__date__": "2026-07-29"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Cameron",
+   "Vargas",
+   {
+    "__date__": "2026-08-17"
+   },
+   {
+    "__date__": "2026-08-17"
+   },
+   "cameron.vargas@example.com",
+   "cameron.vargas@democo.example",
+   "Senior Enterprise Account Executive, EMEA",
+   "Omar Haddad",
+   "omar.haddad@democo.example",
+   "Bianca Okoro",
+   "Dept: Sales | Recruiter: Kira Nolan",
+   true,
+   true,
+   "Madrid, Spain",
+   "",
+   true,
+   true,
+   "Bianca Okoro",
+   "Sales",
+   "\u2713 2026-08-16",
+   {
+    "__date__": "2026-08-12"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Dakota",
+   "Walsh",
+   {
+    "__date__": "2026-08-17"
+   },
+   {
+    "__date__": "2026-08-17"
+   },
+   "dakota.walsh@example.com",
+   "dakota.walsh@democo.example",
+   "Senior Customer Success Manager",
+   "Dana Whitfield",
+   "dana.whitfield@democo.example",
+   "Alexis Tran",
+   "Dept: Customer Success | Recruiter: Liam Ashby",
+   true,
+   true,
+   "Dublin, Ireland",
+   "",
+   true,
+   true,
+   "Alexis Tran",
+   "Customer Success",
+   "\u2713 2026-08-16",
+   {
+    "__date__": "2026-08-12"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Ellis",
+   "Yamada",
+   {
+    "__date__": "2026-08-17"
+   },
+   {
+    "__date__": "2026-08-17"
+   },
+   "ellis.yamada@example.com",
+   "ellis.yamada@democo.example",
+   "Senior Frontend Engineer",
+   "Morgan Smith",
+   "morgan.smith@democo.example",
+   "Colin Mercer",
+   "Dept: Engineering | Recruiter: Elena Voss",
+   true,
+   true,
+   "Tokyo, Japan",
+   "",
+   true,
+   true,
+   "Colin Mercer",
+   "Engineering",
+   "\u2713 2026-08-16",
+   {
+    "__date__": "2026-08-12"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Frankie",
+   "Zielinski",
+   {
+    "__date__": "2026-08-10"
+   },
+   {
+    "__date__": "2026-08-17"
+   },
+   "frankie.zielinski@example.com",
+   "frankie.zielinski@democo.example",
+   "Security Engineer",
+   "Jamie Wilson",
+   "jamie.wilson@democo.example",
+   "Colin Mercer",
+   "Dept: Information Security | Recruiter: Felix Grant",
+   true,
+   true,
+   "Phoenix, Arizona, United States",
+   "",
+   true,
+   true,
+   "Colin Mercer",
+   "Information Security",
+   "\u2713 2026-08-16",
+   {
+    "__date__": "2026-08-12"
+   }
+  ],
+  [
+   "Joined",
+   true,
+   true,
+   true,
+   "Greer",
+   "Ashford",
+   {
+    "__date__": "2026-08-31"
+   },
+   {
+    "__date__": "2026-08-31"
+   },
+   "greer.ashford@example.com",
+   "greer.ashford@democo.example",
+   "Client Partner",
+   "Riley Chen",
+   "riley.chen@democo.example",
+   "Alexis Tran",
+   "Dept: Client Partnership | Recruiter: Georgia Pike",
+   true,
+   true,
+   "Charlotte, North Carolina, United States",
+   "",
+   true,
+   true,
+   "Alexis Tran",
+   "Client Partnership",
+   "\u2713 2026-08-30",
+   {
+    "__date__": "2026-08-26"
+   }
+  ],
+  [
+   "Onboarded",
+   true,
+   true,
+   true,
+   "Hayden",
+   "Beaumont",
+   {
+    "__date__": "2026-08-31"
+   },
+   {
+    "__date__": "2026-08-31"
+   },
+   "hayden.beaumont@example.com",
+   "hayden.beaumont@democo.example",
+   "Product Marketing Manager",
+   "Priya Raman",
+   "priya.raman@democo.example",
+   "Bianca Okoro",
+   "Dept: Marketing | Recruiter: Hugo Salas",
+   true,
+   true,
+   "Toronto, Ontario, Canada",
+   "",
+   true,
+   true,
+   "Bianca Okoro",
+   "Marketing",
+   "\u2713 2026-08-30",
+   {
+    "__date__": "2026-08-26"
+   }
+  ],
+  [
+   "Welcome Call Sent",
+   true,
+   true,
+   true,
+   "Jamie",
+   "Castellanos",
+   {
+    "__date__": "2026-09-14"
+   },
+   {
+    "__date__": "2026-09-14"
+   },
+   "jamie.castellanos@example.com",
+   "jamie.castellanos@democo.example",
+   "Enterprise Account Executive",
+   "Marcus Delaney",
+   "marcus.delaney@democo.example",
+   "Bianca Okoro",
+   "Dept: Sales | Recruiter: Imani Reid",
+   true,
+   true,
+   "Houston, Texas, United States",
+   "",
+   true,
+   true,
+   "Bianca Okoro",
+   "Sales",
+   "",
+   {
+    "__date__": "2026-09-09"
+   }
+  ],
+  [
+   "Welcome Call Sent",
+   true,
+   true,
+   false,
+   "Kai",
+   "Duarte",
+   {
+    "__date__": "2026-09-14"
+   },
+   {
+    "__date__": "2026-09-14"
+   },
+   "kai.duarte@example.com",
+   "kai.duarte@democo.example",
+   "Senior Platform Engineer",
+   "Nina Kovac",
+   "nina.kovac@democo.example",
+   "Colin Mercer",
+   "Dept: Engineering | Recruiter: Jonas Brekke",
+   true,
+   true,
+   "Lisbon, Portugal",
+   "",
+   true,
+   true,
+   "Colin Mercer",
+   "Engineering",
+   "",
+   {
+    "__date__": "2026-09-09"
+   }
+  ],
+  [
+   "Welcome Call Sent",
+   true,
+   true,
+   true,
+   "Lennox",
+   "Ellery",
+   {
+    "__date__": "2026-09-14"
+   },
+   {
+    "__date__": "2026-09-14"
+   },
+   "lennox.ellery@example.com",
+   "lennox.ellery@democo.example",
+   "Customer Advocate",
+   "Theo Barnes",
+   "theo.barnes@democo.example",
+   "Alexis Tran",
+   "Dept: Customer Success | Recruiter: Kira Nolan",
+   true,
+   true,
+   "Salt Lake City, Utah, United States",
+   "",
+   true,
+   true,
+   "Alexis Tran",
+   "Customer Success",
+   "",
+   {
+    "__date__": "2026-09-09"
+   }
+  ],
+  [
+   "Slack Channel Created",
+   true,
+   true,
+   false,
+   "Micah",
+   "Fontaine",
+   {
+    "__date__": "2026-09-14"
+   },
+   {
+    "__date__": "2026-09-14"
+   },
+   "micah.fontaine@example.com",
+   "micah.fontaine@democo.example",
+   "Senior Product Manager",
+   "Sofia Marchetti",
+   "sofia.marchetti@democo.example",
+   "Colin Mercer",
+   "Dept: Product | Recruiter: Liam Ashby",
+   true,
+   true,
+   "Montreal, Quebec, Canada",
+   "",
+   true,
+   true,
+   "Colin Mercer",
+   "Product",
+   "",
+   {
+    "__date__": "2026-09-09"
+   }
+  ],
+  [
+   "Slack Channel Created",
+   true,
+   true,
+   true,
+   "Noor",
+   "Grayson",
+   {
+    "__date__": "2026-09-08"
+   },
+   {
+    "__date__": "2026-09-14"
+   },
+   "noor.grayson@example.com",
+   "noor.grayson@democo.example",
+   "Deployment Specialist",
+   "Elias Fontaine",
+   "elias.fontaine@democo.example",
+   "Alexis Tran",
+   "Dept: Deployment | Recruiter: Elena Voss",
+   true,
+   true,
+   "Singapore",
+   "",
+   true,
+   true,
+   "Alexis Tran",
+   "Deployment",
+   "",
+   {
+    "__date__": "2026-09-09"
+   }
+  ],
+  [
+   "Pending",
+   true,
+   false,
+   true,
+   "Orla",
+   "Holloway",
+   {
+    "__date__": "2026-09-24"
+   },
+   {
+    "__date__": "2026-09-28"
+   },
+   "orla.holloway@example.com",
+   "orla.holloway@democo.example",
+   "Principal Client Partner",
+   "Grace Abbott",
+   "grace.abbott@democo.example",
+   "Alexis Tran",
+   "Dept: Client Partnership | Recruiter: Felix Grant",
+   false,
+   false,
+   "San Diego, California, United States",
+   "",
+   false,
+   false,
+   "",
+   "Client Partnership",
+   "",
+   {
+    "__date__": "2026-09-23"
+   }
+  ],
+  [
+   "Upcoming",
+   false,
+   false,
+   false,
+   "Remy",
+   "Ibarra",
+   {
+    "__date__": "2026-09-24"
+   },
+   {
+    "__date__": "2026-09-28"
+   },
+   "remy.ibarra@example.com",
+   "remy.ibarra@democo.example",
+   "Staff Software Engineer",
+   "Omar Haddad",
+   "omar.haddad@democo.example",
+   "Colin Mercer",
+   "Dept: Engineering | Recruiter: Georgia Pike",
+   false,
+   true,
+   "Austin, Texas, United States",
+   "",
+   false,
+   false,
+   "",
+   "Engineering",
+   "",
+   {
+    "__date__": "2026-09-23"
+   }
+  ],
+  [
+   "Upcoming",
+   true,
+   false,
+   true,
+   "Sasha",
+   "Jensen",
+   {
+    "__date__": "2026-09-24"
+   },
+   {
+    "__date__": "2026-09-28"
+   },
+   "sasha.jensen@example.com",
+   "sasha.jensen@democo.example",
+   "Senior Enterprise Account Executive",
+   "Dana Whitfield",
+   "dana.whitfield@democo.example",
+   "Bianca Okoro",
+   "Dept: Sales | Recruiter: Hugo Salas",
+   false,
+   false,
+   "London, England, United Kingdom",
+   "",
+   false,
+   false,
+   "",
+   "Sales",
+   "",
+   {
+    "__date__": "2026-09-23"
+   }
+  ],
+  [
+   "Pending",
+   false,
+   false,
+   true,
+   "Teagan",
+   "Kerrigan",
+   {
+    "__date__": "2026-09-24"
+   },
+   {
+    "__date__": "2026-09-28"
+   },
+   "teagan.kerrigan@example.com",
+   "teagan.kerrigan@democo.example",
+   "Technical Recruiter",
+   "Morgan Smith",
+   "morgan.smith@democo.example",
+   "Dara Lindgren",
+   "Dept: Recruiting | Recruiter: Imani Reid",
+   false,
+   true,
+   "Ottawa, Ontario, Canada",
+   "",
+   false,
+   false,
+   "",
+   "Recruiting",
+   "",
+   {
+    "__date__": "2026-09-23"
+   }
+  ],
+  [
+   "Upcoming",
+   true,
+   false,
+   false,
+   "Wilder",
+   "Lindqvist",
+   {
+    "__date__": "2026-09-28"
+   },
+   {
+    "__date__": "2026-09-28"
+   },
+   "wilder.lindqvist@example.com",
+   "wilder.lindqvist@democo.example",
+   "Finance Manager",
+   "Jamie Wilson",
+   "jamie.wilson@democo.example",
+   "Dara Lindgren",
+   "Dept: Finance | Recruiter: Jonas Brekke",
+   false,
+   false,
+   "Stockholm, Sweden",
+   "",
+   false,
+   false,
+   "",
+   "Finance",
+   "",
+   {
+    "__date__": "2026-09-23"
+   }
+  ],
+  [
+   "Upcoming",
+   false,
+   false,
+   true,
+   "Zara",
+   "Maddox",
+   {
+    "__date__": "2026-09-28"
+   },
+   {
+    "__date__": "2026-09-28"
+   },
+   "zara.maddox@example.com",
+   "",
+   "Product Designer",
+   "Riley Chen",
+   "riley.chen@democo.example",
+   "Colin Mercer",
+   "Dept: Design | Recruiter: Kira Nolan",
+   false,
+   true,
+   "Melbourne, Victoria, Australia",
+   "",
+   false,
+   false,
+   "",
+   "Design",
+   "",
+   {
+    "__date__": "2026-09-23"
+   }
+  ],
+  [
+   "Upcoming",
+   false,
+   false,
+   false,
+   "Ainsley",
+   "Nakamura",
+   {
+    "__date__": "2026-10-12"
+   },
+   {
+    "__date__": "2026-10-12"
+   },
+   "ainsley.nakamura@example.com",
+   "ainsley.nakamura@democo.example",
+   "Senior Data Engineer",
+   "Priya Raman",
+   "priya.raman@democo.example",
+   "Colin Mercer",
+   "Dept: Engineering | Recruiter: Liam Ashby",
+   false,
+   false,
+   "Singapore",
+   "",
+   false,
+   false,
+   "",
+   "Engineering",
+   "",
+   null
+  ],
+  [
+   "Upcoming",
+   false,
+   false,
+   false,
+   "Brennan",
+   "Oyelaran",
+   {
+    "__date__": "2026-10-12"
+   },
+   {
+    "__date__": "2026-10-12"
+   },
+   "brennan.oyelaran@example.com",
+   "brennan.oyelaran@democo.example",
+   "Customer Success Manager",
+   "Marcus Delaney",
+   "marcus.delaney@democo.example",
+   "Alexis Tran",
+   "Dept: Customer Success | Recruiter: Elena Voss",
+   false,
+   false,
+   "Lagos, Nigeria",
+   "",
+   false,
+   false,
+   "",
+   "Customer Success",
+   "",
+   null
+  ],
+  [
+   "Upcoming",
+   false,
+   false,
+   false,
+   "Corin",
+   "Pereira",
+   {
+    "__date__": "2026-10-05"
+   },
+   {
+    "__date__": "2026-10-12"
+   },
+   "corin.pereira@example.com",
+   "corin.pereira@democo.example",
+   "Client Partner",
+   "Nina Kovac",
+   "nina.kovac@democo.example",
+   "Alexis Tran",
+   "Dept: Client Partnership | Recruiter: Felix Grant",
+   false,
+   false,
+   "Sao Paulo, Brazil",
+   "",
+   false,
+   false,
+   "",
+   "Client Partnership",
+   "",
+   null
+  ],
+  [
+   "Upcoming",
+   false,
+   false,
+   false,
+   "Delphine",
+   "Radcliffe",
+   {
+    "__date__": "2026-10-26"
+   },
+   {
+    "__date__": "2026-10-26"
+   },
+   "delphine.radcliffe@example.com",
+   "delphine.radcliffe@democo.example",
+   "Commercial Counsel",
+   "Theo Barnes",
+   "",
+   "Dara Lindgren",
+   "Dept: Legal | Recruiter: Georgia Pike",
+   false,
+   false,
+   "London, England, United Kingdom",
+   "",
+   false,
+   false,
+   "",
+   "Legal",
+   "",
+   null
+  ],
+  [
+   "Upcoming",
+   false,
+   false,
+   false,
+   "Emory",
+   "Stavros",
+   {
+    "__date__": "2026-10-26"
+   },
+   {
+    "__date__": "2026-10-26"
+   },
+   "",
+   "emory.stavros@democo.example",
+   "Network Operations Engineer",
+   "Sofia Marchetti",
+   "sofia.marchetti@democo.example",
+   "Colin Mercer",
+   "Dept: Network Operations | Recruiter: Hugo Salas",
+   false,
+   false,
+   "Chicago, Illinois, United States",
+   "",
+   false,
+   false,
+   "",
+   "Network Operations",
+   "",
+   null
+  ],
+  [
+   "Upcoming",
+   false,
+   false,
+   false,
+   "Frey",
+   "Whitlock",
+   {
+    "__date__": "2026-11-09"
+   },
+   {
+    "__date__": "2026-11-09"
+   },
+   "frey.whitlock@example.com",
+   "frey.whitlock@democo.example",
+   "Vice President, Key Accounts",
+   "Elias Fontaine",
+   "elias.fontaine@democo.example",
+   "Bianca Okoro",
+   "Exec onboarding path \u2014 1:1 orientation instead of group onboarding.",
+   false,
+   false,
+   "",
+   "",
+   false,
+   false,
+   "",
+   "Sales",
+   "",
+   null
+  ],
+  [
+   "Upcoming",
+   false,
+   false,
+   false,
+   "Giles",
+   "Ashcombe",
+   {
+    "__date__": "2026-11-09"
+   },
+   {
+    "__date__": "2026-11-09"
+   },
+   "giles.ashcombe@example.com",
+   "giles.ashcombe@democo.example",
+   "Engineering Manager",
+   "Grace Abbott",
+   "grace.abbott@democo.example",
+   "Colin Mercer",
+   "Dept: Engineering | Recruiter: Jonas Brekke",
+   false,
+   false,
+   "",
+   "",
+   false,
+   false,
+   "",
+   "Engineering",
+   "",
+   null
+  ],
+  [
+   "Upcoming",
+   false,
+   false,
+   false,
+   "Halle",
+   "Brightwater",
+   {
+    "__date__": "2026-11-23"
+   },
+   {
+    "__date__": "2026-11-23"
+   },
+   "halle.brightwater@example.com",
+   "",
+   "Senior People Partner",
+   "Omar Haddad",
+   "omar.haddad@democo.example",
+   "Dara Lindgren",
+   "Dept: People | Recruiter: Kira Nolan",
+   false,
+   false,
+   "Denver, Colorado, United States",
+   "",
+   false,
+   false,
+   "",
+   "People",
+   "",
+   null
+  ],
+  [
+   "Upcoming",
+   false,
+   false,
+   false,
+   "Ines",
+   "Calloway",
+   {
+    "__date__": "2026-12-07"
+   },
+   {
+    "__date__": "2026-12-07"
+   },
+   "ines.calloway@example.com",
+   "",
+   "Principal Product Manager",
+   "Dana Whitfield",
+   "dana.whitfield@democo.example",
+   "Colin Mercer",
+   "Dept: Product | Recruiter: Liam Ashby",
+   false,
+   false,
+   "Barcelona, Spain",
+   "",
+   false,
+   false,
+   "",
+   "Product",
+   "",
+   null
+  ]
+ ],
+ "headers": [
+  "CTA Status ",
+  "Manager Email Sent ",
+  "Slack ",
+  "New Hire Kit\n Ordered",
+  "First Name",
+  "Last Name",
+  "Joining Date",
+  "Next Cohort Date",
+  "Personal Email",
+  "Work Email",
+  "Job Title",
+  "Manager Name",
+  "Manager Email",
+  "HRBP",
+  "Notes",
+  "Google Group Created",
+  "Welcome Calll Invitation Sent?",
+  "Location",
+  "Dashboard Link ",
+  "DM to manager ",
+  "DM to new hire ",
+  "HRBP from sheet ",
+  "Department",
+  "Okta Activated",
+  "Device Ship Date"
+ ]
+}
